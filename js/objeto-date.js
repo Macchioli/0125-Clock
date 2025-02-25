@@ -33,7 +33,7 @@ let nombresMeses = [ "Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Jul
 
 // console.log(`Bienvenido/a, hoy es ${nombreDiaSemana} ${dia} de ${nombreMes} de ${year}`)
 
-
+/* Función setClock */
 function setClock(){
 
     const fecha = new Date();
